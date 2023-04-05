@@ -1,0 +1,5 @@
+// Autumn Wind PvE (https://www.fanbyte.com/games/guides/autumn-wind-destiny-2-guide-god-roll-and-how-to-get-it/)
+dimwishlist:item=3110377595&perks=839105230,1561002382,691659142,4082225868
+dimwishlist:item=3110377595&perks=839105230,1561002382,3523296417,11612903
+// Autumn Wind PvP (https://www.fanbyte.com/games/guides/autumn-wind-destiny-2-guide-god-roll-and-how-to-get-it/)
+dimwishlist:item=3110377595&perks=1482024992,1561002382,2846385770,460017080
