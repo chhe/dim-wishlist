@@ -17,3 +17,7 @@ dimwishlist:item=2034215657&perks=3250034553,1885400500,2450788523,1015611457
 dimwishlist:item=2034215657&perks=3250034553,1885400500,3619207468,1015611457
 dimwishlist:item=2034215657&perks=3250034553,3230963543,3619207468,1015611457
 dimwishlist:item=2034215657&perks=3250034553,3230963543,2450788523,1015611457
+// Synchronic Roulette PvE (https://www.theloadout.com/destiny-2/synchronic-roulette-god-roll)
+dimwishlist:item=811403305&perks=839105230,1885400500,968510818,831391274
+// Synchronic Roulette PvP (https://www.theloadout.com/destiny-2/synchronic-roulette-god-roll)
+dimwishlist:item=811403305&perks=1482024992,1885400500,3619207468,1015611457
